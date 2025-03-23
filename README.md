@@ -38,8 +38,7 @@ This project analyzes **E-commerce sales data**, extracting key insights like:
 **Goal:** Identify which products generate the highest revenue.  
 📊 **Visualization:** **Bar chart of top 5 products by revenue**.  
 
-![Top Selling Products]("\image/5%20Best-Selling%20Products.png")  
-
+![Top Selling Products]("\image/5%20Best-Selling%20Products.png")
 ---
 
 ### **3️⃣ Monthly Revenue Trend**  
